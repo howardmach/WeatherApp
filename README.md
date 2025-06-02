@@ -32,3 +32,6 @@ Users can search by city name or zip code. The app also allows toggling between 
 2. Click the search button.
 3. Switch between temperature and wind speed units using the toggles.
 4. View the current weather and the 7-day forecast.
+
+## Notes
+For best results, if you want to find a less populous city, it will be helpful to know its zip code. 
